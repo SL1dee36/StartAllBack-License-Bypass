@@ -35,10 +35,12 @@ def modify_registry_key():
 
 # Check for administrator privileges
 if not ctypes.windll.shell32.IsUserAnAdmin():
-    print("COUT: Administrator privileges are required to perform this operation.")
     # Run the program with administrator privileges
-    ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
-
-    input('\nCOUT: Press Enter to exit...')
+    try:
+        ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
+    except:
+        print("COUT: Administrator privileges are required to perform this operation.")
+        print('This console will close after 30 seconds.')
+        time.sleep(30)
 else:
     modify_registry_key()
