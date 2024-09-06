@@ -22,8 +22,8 @@ def modify_registry_key():
                         if num_subkeys == 0:
                             # Modify the last modification date
                             winreg.SetValueEx(sub_key, "StartAllBack-License-Bypass", 0, winreg.REG_DWORD, int(time.time()))
-                            print(f"Key '{key_name}' updated.")
-                            input('Exiting the loop, if there are no more keys to enumerate')
+                            print(f"\n\n\tKey '{key_name}' updated.")
+                            input('\tSuccessful bypass of StartAllBack licences :D\n\n\tPress Enter to exit...')
                             break  # Exit after the first key found
                     index += 1
                 except WindowsError:
@@ -33,12 +33,12 @@ def modify_registry_key():
     except Exception as e:
         print(f"An error occurred: {e}")
 
-if __name__ == "__main__":
-    # Check for administrator privileges
-    if not ctypes.windll.shell32.IsUserAnAdmin():
-        print("Administrator privileges are required to perform this operation.")
-        # Run the program with administrator privileges
-        ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
-    else:
-        modify_registry_key()
-        input('\nPress Enter to exit...')
+# Check for administrator privileges
+if not ctypes.windll.shell32.IsUserAnAdmin():
+    print("COUT: Administrator privileges are required to perform this operation.")
+    # Run the program with administrator privileges
+    ctypes.windll.shell32.ShellExecuteW(None, "runas", sys.executable, " ".join(sys.argv), None, 1)
+
+    input('\nCOUT: Press Enter to exit...')
+else:
+    modify_registry_key()
