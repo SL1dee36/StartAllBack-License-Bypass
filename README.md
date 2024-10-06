@@ -1,4 +1,4 @@
-##  StartAllBack License Bypass
+##  StartAllBack License Bypass | Crack Support
 
 This Python script attempts to bypass the license requirement for the StartAllBack application by modifying registry entries. 
 
