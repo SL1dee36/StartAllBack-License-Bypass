@@ -16,7 +16,7 @@ The script attempts to locate a registry key within the ` HKEY_CURRENT_USER\Soft
 
 **Using the script:**
 
-1. **Download the script:** Save the Python code as a ` .py ` file or [download compiled programm](https://github.com/SL1dee36/StartAllBack-License-Bypass/releases/tag/StartAllBack-License-Bypass-1.0) ` .exe `.
+1. **Download the script:** Save the Python code as a ` .py ` file or [download compiled programm](https://github.com/SL1dee36/StartAllBack-License-Bypass/releases/latest) ` .exe `.
 2. **Run as administrator:** Right-click the script and select "Run as administrator" for successful registry modifications.
 3. **Execute the script:** Run the script. It will search for and modify the relevant registry keys.
 4. **Restart Explorer:** After successful modification, restart Windows Explorer (e.g., by pressing Ctrl+Shift+Esc, navigating to "File", and selecting "Exit").
