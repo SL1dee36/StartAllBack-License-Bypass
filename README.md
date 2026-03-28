@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=SL1dee36&project=StartAllBack-License-Bypass&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 ##  StartAllBack License Bypass | Crack Support
 
 This Python script attempts to bypass the license requirement for the StartAllBack application by modifying registry entries. 
